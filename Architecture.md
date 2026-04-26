@@ -10,7 +10,7 @@ graph TD
         Axios["Axios API Client"]
     end
 
-    subgraph "         Backend (Render)"
+    subgraph "Backend (Render)"
         API["FastAPI App"]
         Match["Matching Engine"]
         Llama["Llama 3.1 Service"]
