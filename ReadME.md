@@ -30,7 +30,7 @@ Repo Links:
 
 ---
 
-## 🏗️ Getting Started
+## 🏗️ Getting Started for local deployment
 
 ### Backend Setup
 1. `cd backend`
@@ -45,8 +45,8 @@ Repo Links:
 ---
 
 ## 🧠 The Brain (NVIDIA NIM Integration)
-ScoutFlow doesn't just look for keywords. It uses a 1024-dimensional vector embedding space to understand the *meaning* behind a candidate's experience. A "Senior DevOps Engineer" isn't just someone with the words "AWS" on their resume; our AI analyzes their actual project impact and technical depth to ensure a 95%+ match accuracy.
+ScoutFlow doesn't just look for keywords. It uses a 1024-dimensional vector embedding space to understand the *meaning* behind a candidate's experience. A "Senior DevOps Engineer" isn't just someone with the words "AWS" on their resume; my AI analyzes their actual project impact and technical depth to ensure a 95%+ match accuracy. The main focus was not to use high end models, it was to build something reliable on which HRs can rely on.
 
 ---
 
-Developed for **DeccanAI Hackathon 2024**.
+Developed for **DeccanAI Hackathon 2026**.
